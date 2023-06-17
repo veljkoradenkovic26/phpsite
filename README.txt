@@ -7,3 +7,4 @@ preko ajaxa.Na stranici about nalazi se anketa na koju mogu da glasaju
 samo ulogovani korisnici takodje preko ajaxa,anketa je realizovana da
 moze da ima neogranicen broj pitanja I odgovora.Na stranici classes
 izlistani su svi tipovi treninga.
+Parametri za admin panel : Email - peraperic@gmail.com Sifra - Admin1234
